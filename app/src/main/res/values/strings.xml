@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KotlinSpinnerExample</string>
+
+
+    <string name="selecteditem">Selected Item:</string>
+
+    <string-array name="countries">
+        <item>Select Country</item>
+        <item>India</item>
+        <item>Malaysia</item>
+        <item>USA</item>
+        <item>Singapore</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Belgium</item>
+    </string-array>
+</resources>
